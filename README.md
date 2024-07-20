@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AjayRajput98765
 - 👀 I’m interested in watching science fiction movies.
 - 🌱 I’m currently learning Competitive programming.
-- 💞️ I’m looking to collaborate on Product developmen
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Product development
+- 📫 How to reach me ...by linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
